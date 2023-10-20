@@ -16,3 +16,4 @@
 Поддерживается только Windows, так как проект сделан на WPF.
 
 # Скриншоты
+![Screenshot 2023-10-20 205537](https://github.com/HYBAS22/Hyba-Video-Compressor/assets/64355829/49c814d0-6717-495d-89a9-5779c7f65d2a)
