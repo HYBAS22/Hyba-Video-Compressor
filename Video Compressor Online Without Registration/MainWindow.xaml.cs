@@ -99,7 +99,7 @@ namespace Video_Compressor_Online_Without_Registration
                     {
                         FileName = "ffmpeg.exe",
                         Arguments =
-                            $"-y -i \"{videoFilePath}\" {hardwareAcceleration} -b:v {videoBitrate} -b:a {audioBitrate} -threads 4 \"{outputFilePath}\"",
+                            $"-y -i \"{videoFilePath}\" {hardwareAcceleration} -b:v {videoBitrate} -b:a {audioBitrate} \"{outputFilePath}\"",
                         RedirectStandardError = true,
                         UseShellExecute = false,
                         CreateNoWindow = true
