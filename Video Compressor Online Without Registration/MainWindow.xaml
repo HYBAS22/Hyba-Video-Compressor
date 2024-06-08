@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:Video_Compressor_Online_Without_Registration"
         mc:Ignorable="d"
         ResizeMode="NoResize"
-        Title="MainWindow" Height="550" Width="420">
+        Title="Hyba Video Compressor" Height="550" Width="420">
     <Grid Background="#FF2F2F2F">
         
         <Grid.RowDefinitions>
